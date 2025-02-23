@@ -51,4 +51,4 @@ Problem Solving and Adaptability
 ## Steps
 
 For a comprehensive and detailed overview of the course project, please refer to the following document:
-[Active Directory PDF](https://github.com/A7HXF/Active-Directory/blob/main/Active%20Directory%20Project.pdf)
+[Active Directory](https://github.com/A7HXF/Active-Directory/blob/main/Active%20Directory%20Project.pdf)
